@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemu1808
-- 👀 I’m interested in SDE,photo/video editing,frontend
-- 🌱 I’m currently learning python,javascript,r
+- 👀 I’m interested in SDE
+- 🌱 I’m currently learning python,javascript
 - 💞️ I’m looking to collaborate on any startup company where i have an oppurtunity to show my excellence
 - 📫 How to reach me hemu1808@gmail.com / +1 669 260 4439
 
