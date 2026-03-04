@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python,javascript
 - 💞️ I’m looking to collaborate on any startup company where i have an oppurtunity to show my excellence
 - 📫 How to reach me hemu1808@gmail.com
-- my portfolio https://hemu1808.github.io/
+- my portfolio https://hemu1808.github.io/swe
 
 <!---
 hemu1808/hemu1808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
